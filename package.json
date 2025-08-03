@@ -1,0 +1,35 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A portfolio website showcasing my resume and projects as a data analyst.",
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "projects",
+    "data analyst"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {},
+  "homepage": "http://your-portfolio-website.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/portfolio-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/portfolio-website/issues"
+  },
+  "homepage": "https://yourusername.github.io/portfolio-website/"
+}
